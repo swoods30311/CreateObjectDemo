@@ -6,4 +6,11 @@ public class Point {
         x = a;
         y = b;
     }
+    /*
+        // Alt Constructor
+    public Point(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+    * */
 }
